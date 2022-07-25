@@ -1,6 +1,6 @@
 # 77car sale screen
 
-## simple screen for react native ..
+## simple screen for react native .
 
 ![screenshot](./src/images/Screenshot_1.jpg)
 
